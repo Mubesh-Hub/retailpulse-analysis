@@ -1,0 +1,11 @@
+store_id,city,area_type,size_sqft,opened_date
+ST001,Chennai,Semi-Urban,1800,2019-02-21
+ST002,Coimbatore,Semi-Urban,2600,2020-05-16
+ST003,Madurai,Urban,2200,2019-07-29
+ST004,Trichy,Semi-Urban,4200,15/06/2021
+ST005,Salem,Urban,3500,2021-05-14
+ST006,Tirunelveli,Urban,1800,2019-07-11
+ST007,Erode,Urban,2200,2021-10-31
+ST008,Vellore,Semi-Urban,1800,2022-02-23
+ST009,Thoothukudi,Urban,4200,2022-08-23
+ST010,Kanchipuram,Semi-Urban,3500,2021-05-09

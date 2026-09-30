@@ -1,0 +1,115 @@
+product_id,category,subcategory,cost_price,sell_price
+P0001,Grocery,Rice,370.38,472.3
+P0002,Grocery,Rice,698.05,1041.12
+P0003,Grocery,Rice,144.53,193.7
+P0004,Grocery,Rice,236.74,295.19
+P0005,Grocery,Rice,615.53,736.17
+P0006,Grocery,Pulses,95.44,146.15
+P0007,Grocery,Pulses,490.91,742.85
+P0008,Grocery,Pulses,589.19,819.74
+P0009,Grocery,Pulses,779.03,1028.58
+P0010,Grocery,Pulses,450.59,686.35
+P0011,Grocery,Pulses,,772.65
+P0012,Grocery,Pulses,470.33,690.0
+P0013,Grocery,Cooking Oil,535.79,802.55
+P0014,Grocery,Cooking Oil,788.47,1210.22
+P0015,Grocery,Cooking Oil,695.86,919.27
+P0016,Grocery,Cooking Oil,373.66,569.96
+P0017,Grocery,Spices,308.74,384.16
+P0018,Grocery,Spices,228.24,358.68
+P0019,Grocery,Spices,525.47,748.33
+P0020,Grocery,Spices,153.49,226.87
+P0021,Grocery,Spices,147.45,194.75
+P0022,Grocery,Flour,554.0,847.22
+P0023,Grocery,Flour,625.28,783.52
+P0024,Grocery,Flour,45.04,58.19
+P0025,Grocery,Flour,228.84,284.89
+P0026,Grocery,Flour,755.47,
+P0027,Beverages,Tea,185.85,255.48
+P0028,Beverages,Tea,710.05,1021.96
+P0029,Beverages,Tea,131.44,159.41
+P0030,Beverages,Tea,601.09,837.04
+P0031,Beverages,Tea,602.67,809.26
+P0032,Beverages,Tea,475.16,623.84
+P0033,Beverages,Coffee,417.43,497.12
+P0034,Beverages,Coffee,56.75,68.06
+P0035,Beverages,Coffee,509.41,767.39
+P0036,Beverages,Coffee,349.28,411.66
+P0037,Beverages,Coffee,317.66,507.7
+P0038,Beverages,Soft Drinks,777.44,1195.2
+P0039,Beverages,Soft Drinks,28.96,42.7
+P0040,Beverages,Soft Drinks,551.73,767.81
+P0041,Beverages,Soft Drinks,228.12,328.14
+P0042,Beverages,Soft Drinks,107.01,144.0
+P0043,Beverages,Soft Drinks,373.9,590.47
+P0044,Beverages,Juices,778.07,1161.57
+P0045,Beverages,Juices,415.99,498.31
+P0046,Beverages,Juices,507.73,776.19
+P0047,Beverages,Juices,415.98,515.61
+P0048,Beverages,Juices,311.65,381.05
+P0049,Beverages,Juices,763.73,1195.31
+P0050,Personal Care,Soap,487.18,667.37
+P0051,Personal Care,Soap,107.26,140.87
+P0052,Personal Care,Soap,788.55,1193.11
+P0053,Personal Care,Soap,206.77,260.2
+P0054,Personal Care,Shampoo,86.81,118.82
+P0055,Personal Care,Shampoo,73.99,110.41
+P0056,Personal Care,Shampoo,617.35,745.62
+P0057,Personal Care,Shampoo,390.72,546.0
+P0058,Personal Care,Toothpaste,431.59,614.14
+P0059,Personal Care,Toothpaste,772.2,1210.82
+P0060,Personal Care,Toothpaste,609.11,889.57
+P0061,Personal Care,Toothpaste,576.1,765.95
+P0062,Personal Care,Toothpaste,543.92,716.91
+P0063,Personal Care,Toothpaste,721.7,976.58
+P0064,Personal Care,Skincare,195.26,254.26
+P0065,Personal Care,Skincare,478.88,600.3
+P0066,Personal Care,Skincare,191.77,226.66
+P0067,Personal Care,Skincare,512.26,641.87
+P0068,Personal Care,Skincare,726.23,1116.1
+P0069,Home & Kitchen,Cookware,421.04,536.96
+P0070,Home & Kitchen,Cookware,398.62,555.14
+P0071,Home & Kitchen,Cookware,584.22,903.83
+P0072,Home & Kitchen,Cookware,469.45,591.2
+P0073,Home & Kitchen,Storage,649.85,803.01
+P0074,Home & Kitchen,Storage,95.61,128.5
+P0075,Home & Kitchen,Storage,350.39,476.59
+P0076,Home & Kitchen,Storage,588.68,855.36
+P0077,Home & Kitchen,Storage,787.65,940.68
+P0078,Home & Kitchen,Storage,334.04,435.15
+P0079,Home & Kitchen,Storage,692.1,873.36
+P0080,Home & Kitchen,Cleaning Supplies,438.3,531.69
+P0081,Home & Kitchen,Cleaning Supplies,163.12,221.55
+P0082,Home & Kitchen,Cleaning Supplies,702.1,831.23
+P0083,Home & Kitchen,Cleaning Supplies,650.26,998.27
+P0084,Home & Kitchen,Cleaning Supplies,96.37,139.11
+P0085,Stationery,Notebooks,775.82,1215.61
+P0086,Stationery,Notebooks,681.98,835.32
+P0087,Stationery,Notebooks,398.8,496.98
+P0088,Stationery,Notebooks,332.81,391.51
+P0089,Stationery,Pens,21.68,28.74
+P0090,Stationery,Pens,742.68,1116.48
+P0091,Stationery,Pens,242.49,354.88
+P0092,Stationery,Pens,589.79,886.17
+P0093,Stationery,Pens,536.26,734.14
+P0094,Stationery,Pens,168.12,209.81
+P0095,Stationery,Pens,65.62,97.19
+P0096,Stationery,Office Supplies,603.42,709.46
+P0097,Stationery,Office Supplies,475.66,654.64
+P0098,Stationery,Office Supplies,685.12,836.43
+P0099,Stationery,Office Supplies,769.41,912.56
+P0100,Electronics Accessories,Cables,73.45,86.71
+P0101,Electronics Accessories,Cables,692.22,921.83
+P0102,Electronics Accessories,Cables,754.44,1061.01
+P0103,Electronics Accessories,Cables,471.56,550.73
+P0104,Electronics Accessories,Cables,83.95,121.38
+P0105,Electronics Accessories,Chargers,749.07,930.28
+P0106,Electronics Accessories,Chargers,578.63,727.57
+P0107,Electronics Accessories,Chargers,328.71,477.37
+P0108,Electronics Accessories,Chargers,254.0,328.24
+P0109,Electronics Accessories,Chargers,606.45,717.21
+P0110,Electronics Accessories,Chargers,377.46,603.67
+P0111,Electronics Accessories,Batteries,77.14,96.11
+P0112,Electronics Accessories,Batteries,226.86,356.16
+P0113,Electronics Accessories,Batteries,707.07,1092.9
+P0114,Electronics Accessories,Batteries,308.23,376.34
